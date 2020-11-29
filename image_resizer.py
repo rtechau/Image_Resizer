@@ -1,7 +1,6 @@
 import os
 from PIL import Image
 
-
 image_folder = '/path/to/image/folder'
 
 def resizer():
